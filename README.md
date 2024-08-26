@@ -1,16 +1,19 @@
-Time-Cube
+# Time-Cube
 
-Play it at:https://angry-alpaca.itch.io/time-cube-webgl
-How to play:
+Play it at: [Time-Cube WebGL](https://angry-alpaca.itch.io/time-cube-webgl)
 
-Controls: W, A, S, D to move.
+## How to Play
 
-Objective: Reach the yellow target before the timer runs out to increase your score
+### Controls
+- **W, A, S, D** to move.
 
-Every time you reach the yellow target, your character will clone.
+### Objective
+- Reach the **yellow target** before the timer runs out to increase your score.
 
-Clones will replicate your exact movements. Avoid colliding with them!
+### Gameplay Mechanics
+- Every time you reach the yellow target, your character will **clone**.
+- Clones will replicate your exact movements. **Avoid colliding** with them!
+- Some clones have **special abilities**. Discover them as you play!
 
-Some clones have special abilities. Find them as you play!
-
-Reach a certain score to unlock other characters.
+### Unlockable Characters
+- Reach a certain score to unlock additional characters.
