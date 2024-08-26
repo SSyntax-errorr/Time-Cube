@@ -1,0 +1,120 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.32f1 (3b9dae9532f5) revision 3906990'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 7975 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+C:/Users/charl/Desktop/Code/Unity/Butterfly effect
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+59453
+Successfully changed project path to: C:/Users/charl/Desktop/Code/Unity/Butterfly effect
+C:/Users/charl/Desktop/Code/Unity/Butterfly effect
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [11692] Host "[IP] 26.237.198.53 [Port] 0 [Flags] 2 [Guid] 133719253 [EditorId] 133719253 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-CAEM4SHB) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [11692] Host "[IP] 26.237.198.53 [Port] 0 [Flags] 2 [Guid] 133719253 [EditorId] 133719253 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-CAEM4SHB) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
+Refreshing native plugins compatible for Editor in 141.26 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.32f1 (3b9dae9532f5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.32f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/charl/Desktop/Code/Unity/Butterfly effect/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   Intel
+    VRAM:     3987 MB
+    Driver:   30.0.101.1692
+received signal from system: SIGSEGV
+Obtained 43 stack frames
+0x00007ff60544cbcd (Unity) 
+0x00007ff605453789 (Unity) 
+0x00007ff6063d8503 (Unity) 
+0x00007ff6054527c6 (Unity) 
+0x00007ff60544c1fc (Unity) 
+0x00007ff6078189fe (Unity) 
+0x00007ff6078d9638 (Unity) 
+0x00007ff6077e5330 (Unity) 
+0x00007ffcb265504f (ntdll) 
+0x00007ffcb25ce866 (ntdll) 
+0x00007ffcb265403e (ntdll) 
+0x00007ff604cb7c00 (Unity) 
+0x00007ff604cb6a4b (Unity) 
+0x00007ff604cc460c (Unity) 
+0x00007ff604cc654a (Unity) 
+0x00007ff604cbe812 (Unity) 
+0x00007ff604cc17ac (Unity) 
+0x00007ff6046dc084 (Unity) 
+0x00007ff6051a9824 (Unity) 
+0x00007ff604c95098 (Unity) 
+0x00007ff6053f3177 (Unity) 
+0x00007ff60540d3c9 (Unity) 
+0x00007ff60540b6b5 (Unity) 
+0x00007ff605418f4b (Unity) 
+0x00007ff605417106 (Unity) 
+0x00007ff6053f9440 (Unity) 
+0x00007ff6053f88ba (Unity) 
+0x00007ff6053fe38c (Unity) 
+0x00007ff6053fec31 (Unity) 
+0x00007ff6053fe9e7 (Unity) 
+0x00007ff6051397cc (Unity) 
+0x00007ff605426d0f (Unity) 
+0x00007ff605427a3c (Unity) 
+0x00007ff605427ba3 (Unity) 
+0x00007ff6053fa072 (Unity) 
+0x00007ff6053fac6f (Unity) 
+0x00007ff605e12d53 (Unity) 
+0x00007ff60501b3a8 (Unity) 
+0x00007ff605f94429 (Unity) 
+0x00007ff6063e2a58 (Unity) 
+0x00007ff6077c2c9e (Unity) 
+0x00007ffcb199257d (KERNEL32) 
+0x00007ffcb260af28 (ntdll) 
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\charl\Desktop\Code\Unity\Butterfly effect;C:\Users\charl\Desktop\Code\Unity\Butterfly effect\Library\BurstCache\JIT;C:\Program Files\Unity\Hub\Editor\2021.3.32f1\Editor;C:\WINDOWS;C:\WINDOWS\system32;', symOptions: 534, UserName: 'charl'
+OS-Version: 10.0.0
+
+========== OUTPUTTING STACK TRACE ==================
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/charl/AppData/Local/Temp/Unity/Editor/Crashes
